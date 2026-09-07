@@ -7,14 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Mikkel Høg Norden</copyright>
-    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Delphiprojekt</title>
-      <link>http://localhost:1313/posts/delphi/</link>
+      <title>Det første skridt</title>
+      <link>http://localhost:1313/posts/projektstart/</link>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/projektstart/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Portfolioprojekt</title>
+      <link>http://localhost:1313/posts/projektide/</link>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/delphi/</guid>
+      <guid>http://localhost:1313/posts/projektide/</guid>
       <description></description>
       
     </item>
